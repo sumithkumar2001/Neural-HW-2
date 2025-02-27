@@ -135,5 +135,3 @@ The code defines two popular deep learning architectures: **AlexNet** and **ResN
    - Prints the architecture summaries for AlexNet and ResNet.
 
 ---
-
-This code provides a comprehensive overview of fundamental concepts in image processing and deep learning, including convolution, edge detection, pooling, and building neural networks.
