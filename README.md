@@ -1,1 +1,2 @@
-# Neural-HW-2
+Sumith kumar kotagiri (700759479)
+
