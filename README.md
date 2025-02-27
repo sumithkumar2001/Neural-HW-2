@@ -1,7 +1,5 @@
 Sumith kumar kotagiri (700759479)
 
-### README for Convolutional Neural Network (CNN) Code
-
 #### Overview
 
 This project demonstrates the implementation of several key tasks in image processing and deep learning. The tasks are divided into four main sections:
